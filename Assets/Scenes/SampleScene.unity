@@ -508,6 +508,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fca306f009e35b4f82cb4851fd0992f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _speed: 0.02
 --- !u!23 &483341776
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -803,6 +804,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fca306f009e35b4f82cb4851fd0992f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _speed: 0.05
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
